@@ -5,7 +5,7 @@ Analysis of a dataset from HR Domain.
 
 -- ETL in Power-Query.
 
--- Writing the DAXs to claculate metrices like the number of emplyees, ratio as per the gender, number of promotees ( total and as per the gender), Turnover rate, Average performance ratings, etc.
+-- Writing the DAXs to calculate metrices like the number of employees, ratio as per the gender, number of promotees ( total and as per the gender), Turnover rate, Average performance ratings, etc.
 
 -- Designing the visuals.
 
